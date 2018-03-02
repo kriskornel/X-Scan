@@ -13,3 +13,6 @@ Bahkan memungkinkan untuk melacak gambar yang tertanam kode yang bisa dieksekusi
 - <a href="https://abaykan.com/">Official Site</a>
 - <a href="https://blog.abaykan.com/">Blog</a>
 - <a href="https://facebook.com/abaykandotcom">Facebook</a>
+
+# Media Review
+- Adewa Official - <a href="http://adewa-official.blogspot.co.id/2018/03/cara-menemukan-suatu-backdoor-pada-web.html">http://adewa-official.blogspot.co.id/2018/03/cara-menemukan-suatu-backdoor-pada-web.html</a>
